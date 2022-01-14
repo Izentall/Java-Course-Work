@@ -1,0 +1,1003 @@
+{
+  "set" : [ {
+    "name" : "CAUhPMFLUvTOYshizqvo",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 35102,
+    "plannedArrival" : {
+      "time" : 16
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "yRaaPNsvmDipufSVFMCd",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 26952,
+    "plannedArrival" : {
+      "time" : 112
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "vyttMeeAFtRcpKklLPvy",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 26748,
+    "plannedArrival" : {
+      "time" : 151
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "dyLOpofkuQePoPwtMWxd",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 26365,
+    "plannedArrival" : {
+      "time" : 446
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "loLpFuOaDAsWwmtdzhcX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33920,
+    "plannedArrival" : {
+      "time" : 579
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "KjZMmjBrTFDuFKmMrjrf",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 39162,
+    "plannedArrival" : {
+      "time" : 820
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "RRCnPjKxxHFPOfdMxYge",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 29901,
+    "plannedArrival" : {
+      "time" : 1221
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "XMkkqLmtaPyXNvIPNaJc",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 21183,
+    "plannedArrival" : {
+      "time" : 1506
+    },
+    "plannedWaiting" : {
+      "time" : 1740
+    }
+  }, {
+    "name" : "AIZOcEGJKVVrKixxbVpe",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 42071,
+    "plannedArrival" : {
+      "time" : 1535
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "sLoRsNFrpiqviObujACV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3076,
+    "plannedArrival" : {
+      "time" : 1543
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "xuEYsczbNhxqTGKekjol",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 40352,
+    "plannedArrival" : {
+      "time" : 2627
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "NTcfDXWaMHmnUJVshTNX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 34234,
+    "plannedArrival" : {
+      "time" : 3532
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "FQidzUVivrktbVVGFOID",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3757,
+    "plannedArrival" : {
+      "time" : 4132
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "kQUwKfEfrlTjgLaoZXcj",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3829,
+    "plannedArrival" : {
+      "time" : 4216
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "vAQJpPzFKfaRBoaKpwed",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 32446,
+    "plannedArrival" : {
+      "time" : 4703
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "eeZaUzwROSGnxSGPWKan",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2886,
+    "plannedArrival" : {
+      "time" : 5295
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "DiWORPcHHpgommxBoKWZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3349,
+    "plannedArrival" : {
+      "time" : 5672
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "pnZNYeHbPIjjJRAGSuFV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2782,
+    "plannedArrival" : {
+      "time" : 6190
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "dpmhlrSBfHmAuYBRonrN",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2582,
+    "plannedArrival" : {
+      "time" : 6323
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "FtqfjEtEpopzTfirakZI",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36678,
+    "plannedArrival" : {
+      "time" : 6466
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "nSGyHOteNRsQasCNNpJl",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2977,
+    "plannedArrival" : {
+      "time" : 7125
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "vUOvQbauUmIyaQwmgRgT",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33185,
+    "plannedArrival" : {
+      "time" : 7294
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "WuhKXDsHgBDvFFXTBtOM",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 43735,
+    "plannedArrival" : {
+      "time" : 7942
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "LkAjgXIzjJMNzlrsKVXy",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 38767,
+    "plannedArrival" : {
+      "time" : 8616
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "dawdiNqliasPbPDaBssO",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3743,
+    "plannedArrival" : {
+      "time" : 9071
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "lCLRArZrMGAQDNgJEzRi",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36142,
+    "plannedArrival" : {
+      "time" : 9173
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "BaAyFpQupFphAHUKptrm",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3730,
+    "plannedArrival" : {
+      "time" : 9196
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "psLHYzfcznEKMFagYQrd",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 39394,
+    "plannedArrival" : {
+      "time" : 9267
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "ZGOXyOWrQhbGPmEsdvUM",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 41664,
+    "plannedArrival" : {
+      "time" : 10019
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "cmKMMtywWhgGwisodaCq",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3326,
+    "plannedArrival" : {
+      "time" : 10339
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "BOluCXiGLJBDFTqHHCTZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3462,
+    "plannedArrival" : {
+      "time" : 10383
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "jXGShGSDBqupyOoTQRxp",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33751,
+    "plannedArrival" : {
+      "time" : 10477
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "rPZaQaQmVsLgmDuxmrTQ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2846,
+    "plannedArrival" : {
+      "time" : 12646
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "noFraxLLckiNNnqRAwMh",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 29850,
+    "plannedArrival" : {
+      "time" : 12897
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "VCBTDecIZnCZTGHdAcGr",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3427,
+    "plannedArrival" : {
+      "time" : 13453
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "aLScHaaZhWdjQDzNTaEt",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 29190,
+    "plannedArrival" : {
+      "time" : 14044
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "uuIFGCUKjEubkOaovhrR",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 40149,
+    "plannedArrival" : {
+      "time" : 14147
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "tfGPMtDRWSmfcxmPlhVV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3611,
+    "plannedArrival" : {
+      "time" : 14425
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "UKJygitysnDiXKwQcmqk",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 21553,
+    "plannedArrival" : {
+      "time" : 14473
+    },
+    "plannedWaiting" : {
+      "time" : 1740
+    }
+  }, {
+    "name" : "JClKVAeTUSfVQliCsoSX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38641,
+    "plannedArrival" : {
+      "time" : 14779
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "fgVSHtVoLbhTrMEEVhvT",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3171,
+    "plannedArrival" : {
+      "time" : 15770
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "fFaRJGqKwyAaKFPcNpZK",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 19869,
+    "plannedArrival" : {
+      "time" : 15972
+    },
+    "plannedWaiting" : {
+      "time" : 1680
+    }
+  }, {
+    "name" : "tdQGUpVbSRguXbYlFVAT",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3134,
+    "plannedArrival" : {
+      "time" : 16052
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "sGnAVOHwnQTtxQUvQWQn",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3885,
+    "plannedArrival" : {
+      "time" : 17167
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "QJjEZypoYNqyjnUzThhR",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 36298,
+    "plannedArrival" : {
+      "time" : 17228
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "NleEeCcAFmVRXrWRMXwP",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3521,
+    "plannedArrival" : {
+      "time" : 17570
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "GfNvRsyfkpKAttLNckyx",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 44015,
+    "plannedArrival" : {
+      "time" : 17836
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "nMaFxPVDtuDTRTJaMXeS",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 49431,
+    "plannedArrival" : {
+      "time" : 19113
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "ezkvxZSCpybNowmiCauj",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 41572,
+    "plannedArrival" : {
+      "time" : 19574
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "GffVqqhfmmEpdELAwdTA",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3211,
+    "plannedArrival" : {
+      "time" : 20690
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "rzFDHniDwoPMWMiPRlEn",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 30882,
+    "plannedArrival" : {
+      "time" : 20748
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "TQQxmLiXmnayxWAvpufI",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2558,
+    "plannedArrival" : {
+      "time" : 21178
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "EltBbUUlqCcyeNmyeUFb",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 45619,
+    "plannedArrival" : {
+      "time" : 21566
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "KZrDfDeGHoQEMRcvLZPE",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 45857,
+    "plannedArrival" : {
+      "time" : 21723
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "GwcoIxPGCoQVIukBtXdI",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 42322,
+    "plannedArrival" : {
+      "time" : 21902
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "ZkbbNikNnWAttibqVHmP",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 46987,
+    "plannedArrival" : {
+      "time" : 22126
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "NmmSOHRhaBDkFSFmcDsZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 4000,
+    "plannedArrival" : {
+      "time" : 22409
+    },
+    "plannedWaiting" : {
+      "time" : 2280
+    }
+  }, {
+    "name" : "geovXZvbZaXFmeSezBmD",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38570,
+    "plannedArrival" : {
+      "time" : 22735
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "HCReGEBUaQlwZuNWBvFK",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 38440,
+    "plannedArrival" : {
+      "time" : 23200
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "uVBBWDXJJJZypLaxnCKV",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 35275,
+    "plannedArrival" : {
+      "time" : 23432
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "tgcOueClZsPZMIBGYwwC",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33548,
+    "plannedArrival" : {
+      "time" : 24040
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "yskXftTtVCUlcolGCDgl",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33436,
+    "plannedArrival" : {
+      "time" : 24638
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "AtaHGiVsCmwlvGdfjMvg",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 47049,
+    "plannedArrival" : {
+      "time" : 25224
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "MIbLrCwFvlPWYNMVbIos",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 32261,
+    "plannedArrival" : {
+      "time" : 25967
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "IxRFRlAmHhUNrpUMIqhZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2686,
+    "plannedArrival" : {
+      "time" : 26009
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "dhAwGVKXDPrWfvZjKLLo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 27134,
+    "plannedArrival" : {
+      "time" : 26012
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "PlRQRDzZyVPejhZobjQW",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 17852,
+    "plannedArrival" : {
+      "time" : 26626
+    },
+    "plannedWaiting" : {
+      "time" : 1680
+    }
+  }, {
+    "name" : "WVVPQPkWMTvJAeVGicAn",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3356,
+    "plannedArrival" : {
+      "time" : 27344
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "cjqxMbXueGMBuRnOlZhs",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2816,
+    "plannedArrival" : {
+      "time" : 27588
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "oxSHiVZsQgXQMubwDokY",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3748,
+    "plannedArrival" : {
+      "time" : 29192
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    }
+  }, {
+    "name" : "ZscEpCZGlwYXZFGobnds",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38353,
+    "plannedArrival" : {
+      "time" : 29694
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "HOfKtsXXUnthzPVeqEDH",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36380,
+    "plannedArrival" : {
+      "time" : 30781
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "kVjZqlKZiCwzbAHbQvgI",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 22271,
+    "plannedArrival" : {
+      "time" : 30995
+    },
+    "plannedWaiting" : {
+      "time" : 1740
+    }
+  }, {
+    "name" : "VlMOBTCNJsayLVKowTlo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 27742,
+    "plannedArrival" : {
+      "time" : 31014
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "FBepTGIqAoqxgPcPXkKX",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 42880,
+    "plannedArrival" : {
+      "time" : 32172
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "iTuboDqHQmAKvBuwTbcO",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2545,
+    "plannedArrival" : {
+      "time" : 32454
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "SLRKnLNjHysXlpxhWHZf",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3571,
+    "plannedArrival" : {
+      "time" : 32900
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "JMDXIdeoVmrhcrPHNTvk",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 29274,
+    "plannedArrival" : {
+      "time" : 33006
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "zWYiZCMLZkgOYyWaCYAh",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 26849,
+    "plannedArrival" : {
+      "time" : 33086
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "jGWXilJATssCWWmrCCJs",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2665,
+    "plannedArrival" : {
+      "time" : 33228
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "MOjedYSxuigTUOwHwolF",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3172,
+    "plannedArrival" : {
+      "time" : 33732
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "OyRSzMzxVUnrecdLxZhH",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2563,
+    "plannedArrival" : {
+      "time" : 33907
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "TeAABEmwIAcnjLRzCTvI",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 37189,
+    "plannedArrival" : {
+      "time" : 34699
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "EwyMnrLFBeCArWqmknPK",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36361,
+    "plannedArrival" : {
+      "time" : 34713
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "lbAxcxPARchzqQXeUcCu",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33931,
+    "plannedArrival" : {
+      "time" : 35360
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "iJlLkSZqoxHdgHSmgHIe",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3462,
+    "plannedArrival" : {
+      "time" : 36251
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    }
+  }, {
+    "name" : "dOlWnNFLGtOvlytrbzhE",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2577,
+    "plannedArrival" : {
+      "time" : 37012
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "dwiMHBbSNSGcMJDyhASF",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 30143,
+    "plannedArrival" : {
+      "time" : 37158
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "xAQaODlaxPoOiGHdkHjs",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 30612,
+    "plannedArrival" : {
+      "time" : 38068
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "MpEcQowcUiCPYgWoETov",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3132,
+    "plannedArrival" : {
+      "time" : 38090
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "RhuMayazCgeqcGpcxxlo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 31778,
+    "plannedArrival" : {
+      "time" : 38453
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    }
+  }, {
+    "name" : "gJGHxZJpGVXWVzKusTBV",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38686,
+    "plannedArrival" : {
+      "time" : 39410
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "bWbwHOoNVBbCXbXKaaIB",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 42216,
+    "plannedArrival" : {
+      "time" : 39464
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  }, {
+    "name" : "zvTsKBJimJuVslTsGPLw",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 39202,
+    "plannedArrival" : {
+      "time" : 39540
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "gLKFdejSiGmloNlnCXKA",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 32871,
+    "plannedArrival" : {
+      "time" : 39611
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "aiUeicYuuMUArNaiEIRw",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 29137,
+    "plannedArrival" : {
+      "time" : 40544
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    }
+  }, {
+    "name" : "TNwwmmdVoxPTdLzvmGah",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3163,
+    "plannedArrival" : {
+      "time" : 40828
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    }
+  }, {
+    "name" : "TZLoITBIYsPTCcJanyIL",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2760,
+    "plannedArrival" : {
+      "time" : 40992
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    }
+  }, {
+    "name" : "gsfRSJFaQptZGMPXlFDS",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33120,
+    "plannedArrival" : {
+      "time" : 41105
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    }
+  }, {
+    "name" : "XWByOZkfZqrVeXWGekQr",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2660,
+    "plannedArrival" : {
+      "time" : 42274
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    }
+  } ]
+}

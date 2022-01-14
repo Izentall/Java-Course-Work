@@ -1,0 +1,13 @@
+{
+  "powderyProductivity":5100,
+  "liquidProductivity":4200,
+  "containerProductivity":300,
+  "lowerSize":500,
+  "upperSize":500,
+  "minWeightPowdery":15000,
+  "maxWeightPowdery":50000,
+  "minWeightLiquid":25000,
+  "maxWeightLiquid":45000,
+  "minNumberOfContainers":2500,
+  "maxNumberOfContainers":4000
+}

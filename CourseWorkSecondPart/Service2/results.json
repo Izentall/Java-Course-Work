@@ -1,0 +1,1549 @@
+{
+  "ships" : [ {
+    "name" : "CAUhPMFLUvTOYshizqvo",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 35102,
+    "arrival" : {
+      "time" : 0
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 0
+    },
+    "endOfDischarge" : {
+      "time" : 251
+    },
+    "info" : "Name: CAUhPMFLUvTOYshizqvo; Arrival: 0:0:0; Waiting for discharge: 0:0:0; Begin of discharge: 0:0:0; Duration of discharge: 0:4:11"
+  }, {
+    "name" : "NTcfDXWaMHmnUJVshTNX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 34234,
+    "arrival" : {
+      "time" : 186
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 263
+    },
+    "endOfDischarge" : {
+      "time" : 753
+    },
+    "info" : "Name: NTcfDXWaMHmnUJVshTNX; Arrival: 0:3:6; Waiting for discharge: 0:1:17; Begin of discharge: 0:4:23; Duration of discharge: 0:8:10"
+  }, {
+    "name" : "FtqfjEtEpopzTfirakZI",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36678,
+    "arrival" : {
+      "time" : 1040
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 1644
+    },
+    "endOfDischarge" : {
+      "time" : 2048
+    },
+    "info" : "Name: FtqfjEtEpopzTfirakZI; Arrival: 0:17:20; Waiting for discharge: 0:10:4; Begin of discharge: 1:3:24; Duration of discharge: 0:6:44"
+  }, {
+    "name" : "loLpFuOaDAsWwmtdzhcX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33920,
+    "arrival" : {
+      "time" : 1928
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 2126
+    },
+    "endOfDischarge" : {
+      "time" : 2611
+    },
+    "info" : "Name: loLpFuOaDAsWwmtdzhcX; Arrival: 1:8:8; Waiting for discharge: 0:3:18; Begin of discharge: 1:11:26; Duration of discharge: 0:8:5"
+  }, {
+    "name" : "eeZaUzwROSGnxSGPWKan",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2886,
+    "arrival" : {
+      "time" : 1954
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 1954
+    },
+    "endOfDischarge" : {
+      "time" : 2027
+    },
+    "info" : "Name: eeZaUzwROSGnxSGPWKan; Arrival: 1:8:34; Waiting for discharge: 0:0:0; Begin of discharge: 1:8:34; Duration of discharge: 0:1:13"
+  }, {
+    "name" : "psLHYzfcznEKMFagYQrd",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 39394,
+    "arrival" : {
+      "time" : 2726
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 3136
+    },
+    "endOfDischarge" : {
+      "time" : 3557
+    },
+    "info" : "Name: psLHYzfcznEKMFagYQrd; Arrival: 1:21:26; Waiting for discharge: 0:6:50; Begin of discharge: 2:4:16; Duration of discharge: 0:7:1"
+  }, {
+    "name" : "dyLOpofkuQePoPwtMWxd",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 26365,
+    "arrival" : {
+      "time" : 2780
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    },
+    "beginOfDischarge" : {
+      "time" : 2780
+    },
+    "endOfDischarge" : {
+      "time" : 3091
+    },
+    "info" : "Name: dyLOpofkuQePoPwtMWxd; Arrival: 1:22:20; Waiting for discharge: 0:0:0; Begin of discharge: 1:22:20; Duration of discharge: 0:5:11"
+  }, {
+    "name" : "LkAjgXIzjJMNzlrsKVXy",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 38767,
+    "arrival" : {
+      "time" : 3441
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 4090
+    },
+    "endOfDischarge" : {
+      "time" : 4547
+    },
+    "info" : "Name: LkAjgXIzjJMNzlrsKVXy; Arrival: 2:9:21; Waiting for discharge: 0:10:49; Begin of discharge: 2:20:10; Duration of discharge: 0:7:37"
+  }, {
+    "name" : "WuhKXDsHgBDvFFXTBtOM",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 43735,
+    "arrival" : {
+      "time" : 3541
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 5768
+    },
+    "endOfDischarge" : {
+      "time" : 6283
+    },
+    "info" : "Name: WuhKXDsHgBDvFFXTBtOM; Arrival: 2:11:1; Waiting for discharge: 1:13:7; Begin of discharge: 4:0:8; Duration of discharge: 0:8:35"
+  }, {
+    "name" : "DiWORPcHHpgommxBoKWZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3349,
+    "arrival" : {
+      "time" : 4152
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 4152
+    },
+    "endOfDischarge" : {
+      "time" : 4236
+    },
+    "info" : "Name: DiWORPcHHpgommxBoKWZ; Arrival: 2:21:12; Waiting for discharge: 0:0:0; Begin of discharge: 2:21:12; Duration of discharge: 0:1:24"
+  }, {
+    "name" : "ZGOXyOWrQhbGPmEsdvUM",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 41664,
+    "arrival" : {
+      "time" : 4662
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 4662
+    },
+    "endOfDischarge" : {
+      "time" : 5038
+    },
+    "info" : "Name: ZGOXyOWrQhbGPmEsdvUM; Arrival: 3:5:42; Waiting for discharge: 0:0:0; Begin of discharge: 3:5:42; Duration of discharge: 0:6:16"
+  }, {
+    "name" : "nSGyHOteNRsQasCNNpJl",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2977,
+    "arrival" : {
+      "time" : 5320
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 5320
+    },
+    "endOfDischarge" : {
+      "time" : 5416
+    },
+    "info" : "Name: nSGyHOteNRsQasCNNpJl; Arrival: 3:16:40; Waiting for discharge: 0:0:0; Begin of discharge: 3:16:40; Duration of discharge: 0:1:36"
+  }, {
+    "name" : "lCLRArZrMGAQDNgJEzRi",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36142,
+    "arrival" : {
+      "time" : 6480
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 6480
+    },
+    "endOfDischarge" : {
+      "time" : 6739
+    },
+    "info" : "Name: lCLRArZrMGAQDNgJEzRi; Arrival: 4:12:0; Waiting for discharge: 0:0:0; Begin of discharge: 4:12:0; Duration of discharge: 0:4:19"
+  }, {
+    "name" : "KjZMmjBrTFDuFKmMrjrf",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 39162,
+    "arrival" : {
+      "time" : 6611
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 6824
+    },
+    "endOfDischarge" : {
+      "time" : 7285
+    },
+    "info" : "Name: KjZMmjBrTFDuFKmMrjrf; Arrival: 4:14:11; Waiting for discharge: 0:3:33; Begin of discharge: 4:17:44; Duration of discharge: 0:7:41"
+  }, {
+    "name" : "AIZOcEGJKVVrKixxbVpe",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 42071,
+    "arrival" : {
+      "time" : 6988
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 7890
+    },
+    "endOfDischarge" : {
+      "time" : 8265
+    },
+    "info" : "Name: AIZOcEGJKVVrKixxbVpe; Arrival: 4:20:28; Waiting for discharge: 0:15:2; Begin of discharge: 5:11:30; Duration of discharge: 0:6:15"
+  }, {
+    "name" : "sLoRsNFrpiqviObujACV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3076,
+    "arrival" : {
+      "time" : 7207
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 7207
+    },
+    "endOfDischarge" : {
+      "time" : 7284
+    },
+    "info" : "Name: sLoRsNFrpiqviObujACV; Arrival: 5:0:7; Waiting for discharge: 0:0:0; Begin of discharge: 5:0:7; Duration of discharge: 0:1:17"
+  }, {
+    "name" : "fgVSHtVoLbhTrMEEVhvT",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3171,
+    "arrival" : {
+      "time" : 7716
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 7716
+    },
+    "endOfDischarge" : {
+      "time" : 7934
+    },
+    "info" : "Name: fgVSHtVoLbhTrMEEVhvT; Arrival: 5:8:36; Waiting for discharge: 0:0:0; Begin of discharge: 5:8:36; Duration of discharge: 0:3:38"
+  }, {
+    "name" : "JClKVAeTUSfVQliCsoSX",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38641,
+    "arrival" : {
+      "time" : 9010
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 9395
+    },
+    "endOfDischarge" : {
+      "time" : 9757
+    },
+    "info" : "Name: JClKVAeTUSfVQliCsoSX; Arrival: 6:6:10; Waiting for discharge: 0:6:25; Begin of discharge: 6:12:35; Duration of discharge: 0:6:2"
+  }, {
+    "name" : "fFaRJGqKwyAaKFPcNpZK",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 19869,
+    "arrival" : {
+      "time" : 9225
+    },
+    "plannedWaiting" : {
+      "time" : 1680
+    },
+    "beginOfDischarge" : {
+      "time" : 9225
+    },
+    "endOfDischarge" : {
+      "time" : 9459
+    },
+    "info" : "Name: fFaRJGqKwyAaKFPcNpZK; Arrival: 6:9:45; Waiting for discharge: 0:0:0; Begin of discharge: 6:9:45; Duration of discharge: 0:3:54"
+  }, {
+    "name" : "noFraxLLckiNNnqRAwMh",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 29850,
+    "arrival" : {
+      "time" : 9249
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    },
+    "beginOfDischarge" : {
+      "time" : 9582
+    },
+    "endOfDischarge" : {
+      "time" : 9934
+    },
+    "info" : "Name: noFraxLLckiNNnqRAwMh; Arrival: 6:10:9; Waiting for discharge: 0:5:33; Begin of discharge: 6:15:42; Duration of discharge: 0:5:52"
+  }, {
+    "name" : "tdQGUpVbSRguXbYlFVAT",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3134,
+    "arrival" : {
+      "time" : 9327
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 9327
+    },
+    "endOfDischarge" : {
+      "time" : 9406
+    },
+    "info" : "Name: tdQGUpVbSRguXbYlFVAT; Arrival: 6:11:27; Waiting for discharge: 0:0:0; Begin of discharge: 6:11:27; Duration of discharge: 0:1:19"
+  }, {
+    "name" : "VCBTDecIZnCZTGHdAcGr",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3427,
+    "arrival" : {
+      "time" : 10550
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 10550
+    },
+    "endOfDischarge" : {
+      "time" : 10673
+    },
+    "info" : "Name: VCBTDecIZnCZTGHdAcGr; Arrival: 7:7:50; Waiting for discharge: 0:0:0; Begin of discharge: 7:7:50; Duration of discharge: 0:2:3"
+  }, {
+    "name" : "ezkvxZSCpybNowmiCauj",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 41572,
+    "arrival" : {
+      "time" : 10604
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 10604
+    },
+    "endOfDischarge" : {
+      "time" : 10958
+    },
+    "info" : "Name: ezkvxZSCpybNowmiCauj; Arrival: 7:8:44; Waiting for discharge: 0:0:0; Begin of discharge: 7:8:44; Duration of discharge: 0:5:54"
+  }, {
+    "name" : "rzFDHniDwoPMWMiPRlEn",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 30882,
+    "arrival" : {
+      "time" : 10738
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 10738
+    },
+    "endOfDischarge" : {
+      "time" : 11102
+    },
+    "info" : "Name: rzFDHniDwoPMWMiPRlEn; Arrival: 7:10:58; Waiting for discharge: 0:0:0; Begin of discharge: 7:10:58; Duration of discharge: 0:6:4"
+  }, {
+    "name" : "GfNvRsyfkpKAttLNckyx",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 44015,
+    "arrival" : {
+      "time" : 11008
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 11281
+    },
+    "endOfDischarge" : {
+      "time" : 11910
+    },
+    "info" : "Name: GfNvRsyfkpKAttLNckyx; Arrival: 7:15:28; Waiting for discharge: 0:4:33; Begin of discharge: 7:20:1; Duration of discharge: 0:10:29"
+  }, {
+    "name" : "dpmhlrSBfHmAuYBRonrN",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2582,
+    "arrival" : {
+      "time" : 11139
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 11139
+    },
+    "endOfDischarge" : {
+      "time" : 11243
+    },
+    "info" : "Name: dpmhlrSBfHmAuYBRonrN; Arrival: 7:17:39; Waiting for discharge: 0:0:0; Begin of discharge: 7:17:39; Duration of discharge: 0:1:44"
+  }, {
+    "name" : "nMaFxPVDtuDTRTJaMXeS",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 49431,
+    "arrival" : {
+      "time" : 11545
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 11545
+    },
+    "endOfDischarge" : {
+      "time" : 12127
+    },
+    "info" : "Name: nMaFxPVDtuDTRTJaMXeS; Arrival: 8:0:25; Waiting for discharge: 0:0:0; Begin of discharge: 8:0:25; Duration of discharge: 0:9:42"
+  }, {
+    "name" : "dawdiNqliasPbPDaBssO",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3743,
+    "arrival" : {
+      "time" : 11761
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 11761
+    },
+    "endOfDischarge" : {
+      "time" : 11949
+    },
+    "info" : "Name: dawdiNqliasPbPDaBssO; Arrival: 8:4:1; Waiting for discharge: 0:0:0; Begin of discharge: 8:4:1; Duration of discharge: 0:3:8"
+  }, {
+    "name" : "vUOvQbauUmIyaQwmgRgT",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33185,
+    "arrival" : {
+      "time" : 11876
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 11950
+    },
+    "endOfDischarge" : {
+      "time" : 12425
+    },
+    "info" : "Name: vUOvQbauUmIyaQwmgRgT; Arrival: 8:5:56; Waiting for discharge: 0:1:14; Begin of discharge: 8:7:10; Duration of discharge: 0:7:55"
+  }, {
+    "name" : "kQUwKfEfrlTjgLaoZXcj",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3829,
+    "arrival" : {
+      "time" : 12301
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 12301
+    },
+    "endOfDischarge" : {
+      "time" : 12524
+    },
+    "info" : "Name: kQUwKfEfrlTjgLaoZXcj; Arrival: 8:13:1; Waiting for discharge: 0:0:0; Begin of discharge: 8:13:1; Duration of discharge: 0:3:43"
+  }, {
+    "name" : "FQidzUVivrktbVVGFOID",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3757,
+    "arrival" : {
+      "time" : 13140
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 13140
+    },
+    "endOfDischarge" : {
+      "time" : 13266
+    },
+    "info" : "Name: FQidzUVivrktbVVGFOID; Arrival: 9:3:0; Waiting for discharge: 0:0:0; Begin of discharge: 9:3:0; Duration of discharge: 0:2:6"
+  }, {
+    "name" : "uuIFGCUKjEubkOaovhrR",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 40149,
+    "arrival" : {
+      "time" : 13775
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 13775
+    },
+    "endOfDischarge" : {
+      "time" : 14248
+    },
+    "info" : "Name: uuIFGCUKjEubkOaovhrR; Arrival: 9:13:35; Waiting for discharge: 0:0:0; Begin of discharge: 9:13:35; Duration of discharge: 0:7:53"
+  }, {
+    "name" : "jXGShGSDBqupyOoTQRxp",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33751,
+    "arrival" : {
+      "time" : 13796
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 13796
+    },
+    "endOfDischarge" : {
+      "time" : 14038
+    },
+    "info" : "Name: jXGShGSDBqupyOoTQRxp; Arrival: 9:13:56; Waiting for discharge: 0:0:0; Begin of discharge: 9:13:56; Duration of discharge: 0:4:2"
+  }, {
+    "name" : "BaAyFpQupFphAHUKptrm",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3730,
+    "arrival" : {
+      "time" : 14883
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 14883
+    },
+    "endOfDischarge" : {
+      "time" : 14977
+    },
+    "info" : "Name: BaAyFpQupFphAHUKptrm; Arrival: 10:8:3; Waiting for discharge: 0:0:0; Begin of discharge: 10:8:3; Duration of discharge: 0:1:34"
+  }, {
+    "name" : "BOluCXiGLJBDFTqHHCTZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3462,
+    "arrival" : {
+      "time" : 15022
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 15199
+    },
+    "endOfDischarge" : {
+      "time" : 15453
+    },
+    "info" : "Name: BOluCXiGLJBDFTqHHCTZ; Arrival: 10:10:22; Waiting for discharge: 0:2:57; Begin of discharge: 10:13:19; Duration of discharge: 0:4:14"
+  }, {
+    "name" : "pnZNYeHbPIjjJRAGSuFV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2782,
+    "arrival" : {
+      "time" : 15106
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 15467
+    },
+    "endOfDischarge" : {
+      "time" : 15723
+    },
+    "info" : "Name: pnZNYeHbPIjjJRAGSuFV; Arrival: 10:11:46; Waiting for discharge: 0:6:1; Begin of discharge: 10:17:47; Duration of discharge: 0:4:16"
+  }, {
+    "name" : "sGnAVOHwnQTtxQUvQWQn",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3885,
+    "arrival" : {
+      "time" : 15757
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 15757
+    },
+    "endOfDischarge" : {
+      "time" : 16080
+    },
+    "info" : "Name: sGnAVOHwnQTtxQUvQWQn; Arrival: 10:22:37; Waiting for discharge: 0:0:0; Begin of discharge: 10:22:37; Duration of discharge: 0:5:23"
+  }, {
+    "name" : "tfGPMtDRWSmfcxmPlhVV",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3611,
+    "arrival" : {
+      "time" : 16384
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 16384
+    },
+    "endOfDischarge" : {
+      "time" : 16607
+    },
+    "info" : "Name: tfGPMtDRWSmfcxmPlhVV; Arrival: 11:9:4; Waiting for discharge: 0:0:0; Begin of discharge: 11:9:4; Duration of discharge: 0:3:43"
+  }, {
+    "name" : "GwcoIxPGCoQVIukBtXdI",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 42322,
+    "arrival" : {
+      "time" : 16434
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 16434
+    },
+    "endOfDischarge" : {
+      "time" : 16737
+    },
+    "info" : "Name: GwcoIxPGCoQVIukBtXdI; Arrival: 11:9:54; Waiting for discharge: 0:0:0; Begin of discharge: 11:9:54; Duration of discharge: 0:5:3"
+  }, {
+    "name" : "QJjEZypoYNqyjnUzThhR",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 36298,
+    "arrival" : {
+      "time" : 16918
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 16918
+    },
+    "endOfDischarge" : {
+      "time" : 17346
+    },
+    "info" : "Name: QJjEZypoYNqyjnUzThhR; Arrival: 11:17:58; Waiting for discharge: 0:0:0; Begin of discharge: 11:17:58; Duration of discharge: 0:7:8"
+  }, {
+    "name" : "aLScHaaZhWdjQDzNTaEt",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 29190,
+    "arrival" : {
+      "time" : 16977
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 17074
+    },
+    "endOfDischarge" : {
+      "time" : 17491
+    },
+    "info" : "Name: aLScHaaZhWdjQDzNTaEt; Arrival: 11:18:57; Waiting for discharge: 0:1:37; Begin of discharge: 11:20:34; Duration of discharge: 0:6:57"
+  }, {
+    "name" : "TQQxmLiXmnayxWAvpufI",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2558,
+    "arrival" : {
+      "time" : 17520
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 17520
+    },
+    "endOfDischarge" : {
+      "time" : 17606
+    },
+    "info" : "Name: TQQxmLiXmnayxWAvpufI; Arrival: 12:4:0; Waiting for discharge: 0:0:0; Begin of discharge: 12:4:0; Duration of discharge: 0:1:26"
+  }, {
+    "name" : "IxRFRlAmHhUNrpUMIqhZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2686,
+    "arrival" : {
+      "time" : 17750
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 17750
+    },
+    "endOfDischarge" : {
+      "time" : 18061
+    },
+    "info" : "Name: IxRFRlAmHhUNrpUMIqhZ; Arrival: 12:7:50; Waiting for discharge: 0:0:0; Begin of discharge: 12:7:50; Duration of discharge: 0:5:11"
+  }, {
+    "name" : "rPZaQaQmVsLgmDuxmrTQ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2846,
+    "arrival" : {
+      "time" : 18381
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 18381
+    },
+    "endOfDischarge" : {
+      "time" : 18770
+    },
+    "info" : "Name: rPZaQaQmVsLgmDuxmrTQ; Arrival: 12:18:21; Waiting for discharge: 0:0:0; Begin of discharge: 12:18:21; Duration of discharge: 0:6:29"
+  }, {
+    "name" : "dhAwGVKXDPrWfvZjKLLo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 27134,
+    "arrival" : {
+      "time" : 18810
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    },
+    "beginOfDischarge" : {
+      "time" : 18810
+    },
+    "endOfDischarge" : {
+      "time" : 19130
+    },
+    "info" : "Name: dhAwGVKXDPrWfvZjKLLo; Arrival: 13:1:30; Waiting for discharge: 0:0:0; Begin of discharge: 13:1:30; Duration of discharge: 0:5:20"
+  }, {
+    "name" : "KZrDfDeGHoQEMRcvLZPE",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 45857,
+    "arrival" : {
+      "time" : 19089
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 19438
+    },
+    "endOfDischarge" : {
+      "time" : 19978
+    },
+    "info" : "Name: KZrDfDeGHoQEMRcvLZPE; Arrival: 13:6:9; Waiting for discharge: 0:5:49; Begin of discharge: 13:11:58; Duration of discharge: 0:9:0"
+  }, {
+    "name" : "MIbLrCwFvlPWYNMVbIos",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 32261,
+    "arrival" : {
+      "time" : 19756
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 21347
+    },
+    "endOfDischarge" : {
+      "time" : 21727
+    },
+    "info" : "Name: MIbLrCwFvlPWYNMVbIos; Arrival: 13:17:16; Waiting for discharge: 1:2:31; Begin of discharge: 14:19:47; Duration of discharge: 0:6:20"
+  }, {
+    "name" : "cmKMMtywWhgGwisodaCq",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3326,
+    "arrival" : {
+      "time" : 19968
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 19968
+    },
+    "endOfDischarge" : {
+      "time" : 20052
+    },
+    "info" : "Name: cmKMMtywWhgGwisodaCq; Arrival: 13:20:48; Waiting for discharge: 0:0:0; Begin of discharge: 13:20:48; Duration of discharge: 0:1:24"
+  }, {
+    "name" : "WVVPQPkWMTvJAeVGicAn",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3356,
+    "arrival" : {
+      "time" : 21266
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 21266
+    },
+    "endOfDischarge" : {
+      "time" : 21353
+    },
+    "info" : "Name: WVVPQPkWMTvJAeVGicAn; Arrival: 14:18:26; Waiting for discharge: 0:0:0; Begin of discharge: 14:18:26; Duration of discharge: 0:1:27"
+  }, {
+    "name" : "VlMOBTCNJsayLVKowTlo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 27742,
+    "arrival" : {
+      "time" : 21367
+    },
+    "plannedWaiting" : {
+      "time" : 1800
+    },
+    "beginOfDischarge" : {
+      "time" : 22297
+    },
+    "endOfDischarge" : {
+      "time" : 22624
+    },
+    "info" : "Name: VlMOBTCNJsayLVKowTlo; Arrival: 14:20:7; Waiting for discharge: 0:15:30; Begin of discharge: 15:11:37; Duration of discharge: 0:5:27"
+  }, {
+    "name" : "GffVqqhfmmEpdELAwdTA",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3211,
+    "arrival" : {
+      "time" : 21470
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 21565
+    },
+    "endOfDischarge" : {
+      "time" : 21988
+    },
+    "info" : "Name: GffVqqhfmmEpdELAwdTA; Arrival: 14:21:50; Waiting for discharge: 0:1:35; Begin of discharge: 14:23:25; Duration of discharge: 0:7:3"
+  }, {
+    "name" : "cjqxMbXueGMBuRnOlZhs",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2816,
+    "arrival" : {
+      "time" : 22169
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 22169
+    },
+    "endOfDischarge" : {
+      "time" : 22397
+    },
+    "info" : "Name: cjqxMbXueGMBuRnOlZhs; Arrival: 15:9:29; Waiting for discharge: 0:0:0; Begin of discharge: 15:9:29; Duration of discharge: 0:3:48"
+  }, {
+    "name" : "geovXZvbZaXFmeSezBmD",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38570,
+    "arrival" : {
+      "time" : 22740
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 22740
+    },
+    "endOfDischarge" : {
+      "time" : 23016
+    },
+    "info" : "Name: geovXZvbZaXFmeSezBmD; Arrival: 15:19:0; Waiting for discharge: 0:0:0; Begin of discharge: 15:19:0; Duration of discharge: 0:4:36"
+  }, {
+    "name" : "UKJygitysnDiXKwQcmqk",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 21553,
+    "arrival" : {
+      "time" : 23420
+    },
+    "plannedWaiting" : {
+      "time" : 1740
+    },
+    "beginOfDischarge" : {
+      "time" : 23988
+    },
+    "endOfDischarge" : {
+      "time" : 24242
+    },
+    "info" : "Name: UKJygitysnDiXKwQcmqk; Arrival: 16:6:20; Waiting for discharge: 0:9:28; Begin of discharge: 16:15:48; Duration of discharge: 0:4:14"
+  }, {
+    "name" : "HCReGEBUaQlwZuNWBvFK",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 38440,
+    "arrival" : {
+      "time" : 23702
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 24312
+    },
+    "endOfDischarge" : {
+      "time" : 24765
+    },
+    "info" : "Name: HCReGEBUaQlwZuNWBvFK; Arrival: 16:11:2; Waiting for discharge: 0:10:10; Begin of discharge: 16:21:12; Duration of discharge: 0:7:33"
+  }, {
+    "name" : "JMDXIdeoVmrhcrPHNTvk",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 29274,
+    "arrival" : {
+      "time" : 24231
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 24231
+    },
+    "endOfDischarge" : {
+      "time" : 24441
+    },
+    "info" : "Name: JMDXIdeoVmrhcrPHNTvk; Arrival: 16:19:51; Waiting for discharge: 0:0:0; Begin of discharge: 16:19:51; Duration of discharge: 0:3:30"
+  }, {
+    "name" : "TeAABEmwIAcnjLRzCTvI",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 37189,
+    "arrival" : {
+      "time" : 24696
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 26170
+    },
+    "endOfDischarge" : {
+      "time" : 26608
+    },
+    "info" : "Name: TeAABEmwIAcnjLRzCTvI; Arrival: 17:3:36; Waiting for discharge: 1:0:34; Begin of discharge: 18:4:10; Duration of discharge: 0:7:18"
+  }, {
+    "name" : "AtaHGiVsCmwlvGdfjMvg",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 47049,
+    "arrival" : {
+      "time" : 25251
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 26742
+    },
+    "endOfDischarge" : {
+      "time" : 27296
+    },
+    "info" : "Name: AtaHGiVsCmwlvGdfjMvg; Arrival: 17:12:51; Waiting for discharge: 1:0:51; Begin of discharge: 18:13:42; Duration of discharge: 0:9:14"
+  }, {
+    "name" : "NleEeCcAFmVRXrWRMXwP",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3521,
+    "arrival" : {
+      "time" : 25335
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 25335
+    },
+    "endOfDischarge" : {
+      "time" : 25424
+    },
+    "info" : "Name: NleEeCcAFmVRXrWRMXwP; Arrival: 17:14:15; Waiting for discharge: 0:0:0; Begin of discharge: 17:14:15; Duration of discharge: 0:1:29"
+  }, {
+    "name" : "jGWXilJATssCWWmrCCJs",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2665,
+    "arrival" : {
+      "time" : 25368
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 25848
+    },
+    "endOfDischarge" : {
+      "time" : 26037
+    },
+    "info" : "Name: jGWXilJATssCWWmrCCJs; Arrival: 17:14:48; Waiting for discharge: 0:8:0; Begin of discharge: 17:22:48; Duration of discharge: 0:3:9"
+  }, {
+    "name" : "ZscEpCZGlwYXZFGobnds",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38353,
+    "arrival" : {
+      "time" : 25530
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 25530
+    },
+    "endOfDischarge" : {
+      "time" : 25922
+    },
+    "info" : "Name: ZscEpCZGlwYXZFGobnds; Arrival: 17:17:30; Waiting for discharge: 0:0:0; Begin of discharge: 17:17:30; Duration of discharge: 0:6:32"
+  }, {
+    "name" : "uVBBWDXJJJZypLaxnCKV",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 35275,
+    "arrival" : {
+      "time" : 25841
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 26239
+    },
+    "endOfDischarge" : {
+      "time" : 26566
+    },
+    "info" : "Name: uVBBWDXJJJZypLaxnCKV; Arrival: 17:22:41; Waiting for discharge: 0:6:38; Begin of discharge: 18:5:19; Duration of discharge: 0:5:27"
+  }, {
+    "name" : "zWYiZCMLZkgOYyWaCYAh",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 26849,
+    "arrival" : {
+      "time" : 25978
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 26939
+    },
+    "endOfDischarge" : {
+      "time" : 27323
+    },
+    "info" : "Name: zWYiZCMLZkgOYyWaCYAh; Arrival: 18:0:58; Waiting for discharge: 0:16:1; Begin of discharge: 18:16:59; Duration of discharge: 0:6:24"
+  }, {
+    "name" : "ZkbbNikNnWAttibqVHmP",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 46987,
+    "arrival" : {
+      "time" : 26833
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 28567
+    },
+    "endOfDischarge" : {
+      "time" : 29120
+    },
+    "info" : "Name: ZkbbNikNnWAttibqVHmP; Arrival: 18:15:13; Waiting for discharge: 1:4:54; Begin of discharge: 19:20:7; Duration of discharge: 0:9:13"
+  }, {
+    "name" : "EltBbUUlqCcyeNmyeUFb",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 45619,
+    "arrival" : {
+      "time" : 28888
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 30300
+    },
+    "endOfDischarge" : {
+      "time" : 30837
+    },
+    "info" : "Name: EltBbUUlqCcyeNmyeUFb; Arrival: 20:1:28; Waiting for discharge: 0:23:32; Begin of discharge: 21:1:0; Duration of discharge: 0:8:57"
+  }, {
+    "name" : "RhuMayazCgeqcGpcxxlo",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 31778,
+    "arrival" : {
+      "time" : 28962
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 31764
+    },
+    "endOfDischarge" : {
+      "time" : 32138
+    },
+    "info" : "Name: RhuMayazCgeqcGpcxxlo; Arrival: 20:2:42; Waiting for discharge: 1:22:42; Begin of discharge: 22:1:24; Duration of discharge: 0:6:14"
+  }, {
+    "name" : "oxSHiVZsQgXQMubwDokY",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3748,
+    "arrival" : {
+      "time" : 29043
+    },
+    "plannedWaiting" : {
+      "time" : 2220
+    },
+    "beginOfDischarge" : {
+      "time" : 29043
+    },
+    "endOfDischarge" : {
+      "time" : 29137
+    },
+    "info" : "Name: oxSHiVZsQgXQMubwDokY; Arrival: 20:4:3; Waiting for discharge: 0:0:0; Begin of discharge: 20:4:3; Duration of discharge: 0:1:34"
+  }, {
+    "name" : "OyRSzMzxVUnrecdLxZhH",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2563,
+    "arrival" : {
+      "time" : 29081
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 29174
+    },
+    "endOfDischarge" : {
+      "time" : 29439
+    },
+    "info" : "Name: OyRSzMzxVUnrecdLxZhH; Arrival: 20:4:41; Waiting for discharge: 0:1:33; Begin of discharge: 20:6:14; Duration of discharge: 0:4:25"
+  }, {
+    "name" : "tgcOueClZsPZMIBGYwwC",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33548,
+    "arrival" : {
+      "time" : 29989
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 29989
+    },
+    "endOfDischarge" : {
+      "time" : 30229
+    },
+    "info" : "Name: tgcOueClZsPZMIBGYwwC; Arrival: 20:19:49; Waiting for discharge: 0:0:0; Begin of discharge: 20:19:49; Duration of discharge: 0:4:0"
+  }, {
+    "name" : "MpEcQowcUiCPYgWoETov",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3132,
+    "arrival" : {
+      "time" : 30190
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 30190
+    },
+    "endOfDischarge" : {
+      "time" : 30295
+    },
+    "info" : "Name: MpEcQowcUiCPYgWoETov; Arrival: 20:23:10; Waiting for discharge: 0:0:0; Begin of discharge: 20:23:10; Duration of discharge: 0:1:45"
+  }, {
+    "name" : "HOfKtsXXUnthzPVeqEDH",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36380,
+    "arrival" : {
+      "time" : 30823
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 30823
+    },
+    "endOfDischarge" : {
+      "time" : 31083
+    },
+    "info" : "Name: HOfKtsXXUnthzPVeqEDH; Arrival: 21:9:43; Waiting for discharge: 0:0:0; Begin of discharge: 21:9:43; Duration of discharge: 0:4:20"
+  }, {
+    "name" : "NmmSOHRhaBDkFSFmcDsZ",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 4000,
+    "arrival" : {
+      "time" : 30854
+    },
+    "plannedWaiting" : {
+      "time" : 2280
+    },
+    "beginOfDischarge" : {
+      "time" : 30854
+    },
+    "endOfDischarge" : {
+      "time" : 31054
+    },
+    "info" : "Name: NmmSOHRhaBDkFSFmcDsZ; Arrival: 21:10:14; Waiting for discharge: 0:0:0; Begin of discharge: 21:10:14; Duration of discharge: 0:3:20"
+  }, {
+    "name" : "TZLoITBIYsPTCcJanyIL",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2760,
+    "arrival" : {
+      "time" : 31959
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 31959
+    },
+    "endOfDischarge" : {
+      "time" : 32049
+    },
+    "info" : "Name: TZLoITBIYsPTCcJanyIL; Arrival: 22:4:39; Waiting for discharge: 0:0:0; Begin of discharge: 22:4:39; Duration of discharge: 0:1:30"
+  }, {
+    "name" : "dOlWnNFLGtOvlytrbzhE",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2577,
+    "arrival" : {
+      "time" : 32488
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 32488
+    },
+    "endOfDischarge" : {
+      "time" : 32647
+    },
+    "info" : "Name: dOlWnNFLGtOvlytrbzhE; Arrival: 22:13:28; Waiting for discharge: 0:0:0; Begin of discharge: 22:13:28; Duration of discharge: 0:2:39"
+  }, {
+    "name" : "gLKFdejSiGmloNlnCXKA",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 32871,
+    "arrival" : {
+      "time" : 32644
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 32644
+    },
+    "endOfDischarge" : {
+      "time" : 32879
+    },
+    "info" : "Name: gLKFdejSiGmloNlnCXKA; Arrival: 22:16:4; Waiting for discharge: 0:0:0; Begin of discharge: 22:16:4; Duration of discharge: 0:3:55"
+  }, {
+    "name" : "iTuboDqHQmAKvBuwTbcO",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2545,
+    "arrival" : {
+      "time" : 33353
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 33353
+    },
+    "endOfDischarge" : {
+      "time" : 33488
+    },
+    "info" : "Name: iTuboDqHQmAKvBuwTbcO; Arrival: 23:3:53; Waiting for discharge: 0:0:0; Begin of discharge: 23:3:53; Duration of discharge: 0:2:15"
+  }, {
+    "name" : "bWbwHOoNVBbCXbXKaaIB",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 42216,
+    "arrival" : {
+      "time" : 33509
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 33509
+    },
+    "endOfDischarge" : {
+      "time" : 34006
+    },
+    "info" : "Name: bWbwHOoNVBbCXbXKaaIB; Arrival: 23:6:29; Waiting for discharge: 0:0:0; Begin of discharge: 23:6:29; Duration of discharge: 0:8:17"
+  }, {
+    "name" : "gsfRSJFaQptZGMPXlFDS",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33120,
+    "arrival" : {
+      "time" : 33820
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 33820
+    },
+    "endOfDischarge" : {
+      "time" : 34272
+    },
+    "info" : "Name: gsfRSJFaQptZGMPXlFDS; Arrival: 23:11:40; Waiting for discharge: 0:0:0; Begin of discharge: 23:11:40; Duration of discharge: 0:7:32"
+  }, {
+    "name" : "EwyMnrLFBeCArWqmknPK",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 36361,
+    "arrival" : {
+      "time" : 33858
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 35075
+    },
+    "endOfDischarge" : {
+      "time" : 35429
+    },
+    "info" : "Name: EwyMnrLFBeCArWqmknPK; Arrival: 23:12:18; Waiting for discharge: 0:20:17; Begin of discharge: 24:8:35; Duration of discharge: 0:5:54"
+  }, {
+    "name" : "yskXftTtVCUlcolGCDgl",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33436,
+    "arrival" : {
+      "time" : 34529
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 36408
+    },
+    "endOfDischarge" : {
+      "time" : 36821
+    },
+    "info" : "Name: yskXftTtVCUlcolGCDgl; Arrival: 23:23:29; Waiting for discharge: 1:7:19; Begin of discharge: 25:6:48; Duration of discharge: 0:6:53"
+  }, {
+    "name" : "PlRQRDzZyVPejhZobjQW",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 17852,
+    "arrival" : {
+      "time" : 36488
+    },
+    "plannedWaiting" : {
+      "time" : 1680
+    },
+    "beginOfDischarge" : {
+      "time" : 36488
+    },
+    "endOfDischarge" : {
+      "time" : 36699
+    },
+    "info" : "Name: PlRQRDzZyVPejhZobjQW; Arrival: 25:8:8; Waiting for discharge: 0:0:0; Begin of discharge: 25:8:8; Duration of discharge: 0:3:31"
+  }, {
+    "name" : "xAQaODlaxPoOiGHdkHjs",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 30612,
+    "arrival" : {
+      "time" : 37136
+    },
+    "plannedWaiting" : {
+      "time" : 1860
+    },
+    "beginOfDischarge" : {
+      "time" : 37136
+    },
+    "endOfDischarge" : {
+      "time" : 37497
+    },
+    "info" : "Name: xAQaODlaxPoOiGHdkHjs; Arrival: 25:18:56; Waiting for discharge: 0:0:0; Begin of discharge: 25:18:56; Duration of discharge: 0:6:1"
+  }, {
+    "name" : "lbAxcxPARchzqQXeUcCu",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 33931,
+    "arrival" : {
+      "time" : 37734
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 37828
+    },
+    "endOfDischarge" : {
+      "time" : 38268
+    },
+    "info" : "Name: lbAxcxPARchzqQXeUcCu; Arrival: 26:4:54; Waiting for discharge: 0:1:34; Begin of discharge: 26:6:28; Duration of discharge: 0:7:20"
+  }, {
+    "name" : "MOjedYSxuigTUOwHwolF",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3172,
+    "arrival" : {
+      "time" : 37835
+    },
+    "plannedWaiting" : {
+      "time" : 2100
+    },
+    "beginOfDischarge" : {
+      "time" : 37835
+    },
+    "endOfDischarge" : {
+      "time" : 37915
+    },
+    "info" : "Name: MOjedYSxuigTUOwHwolF; Arrival: 26:6:35; Waiting for discharge: 0:0:0; Begin of discharge: 26:6:35; Duration of discharge: 0:1:20"
+  }, {
+    "name" : "kVjZqlKZiCwzbAHbQvgI",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 22271,
+    "arrival" : {
+      "time" : 37903
+    },
+    "plannedWaiting" : {
+      "time" : 1740
+    },
+    "beginOfDischarge" : {
+      "time" : 38372
+    },
+    "endOfDischarge" : {
+      "time" : 38635
+    },
+    "info" : "Name: kVjZqlKZiCwzbAHbQvgI; Arrival: 26:7:43; Waiting for discharge: 0:7:49; Begin of discharge: 26:15:32; Duration of discharge: 0:4:23"
+  }, {
+    "name" : "gJGHxZJpGVXWVzKusTBV",
+    "cargoType" : "LIQUID",
+    "cargoValue" : 38686,
+    "arrival" : {
+      "time" : 37950
+    },
+    "plannedWaiting" : {
+      "time" : 2040
+    },
+    "beginOfDischarge" : {
+      "time" : 39265
+    },
+    "endOfDischarge" : {
+      "time" : 39756
+    },
+    "info" : "Name: gJGHxZJpGVXWVzKusTBV; Arrival: 26:8:30; Waiting for discharge: 0:21:55; Begin of discharge: 27:6:25; Duration of discharge: 0:8:11"
+  }, {
+    "name" : "zvTsKBJimJuVslTsGPLw",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 39202,
+    "arrival" : {
+      "time" : 38811
+    },
+    "plannedWaiting" : {
+      "time" : 1920
+    },
+    "beginOfDischarge" : {
+      "time" : 38811
+    },
+    "endOfDischarge" : {
+      "time" : 39273
+    },
+    "info" : "Name: zvTsKBJimJuVslTsGPLw; Arrival: 26:22:51; Waiting for discharge: 0:0:0; Begin of discharge: 26:22:51; Duration of discharge: 0:7:42"
+  }, {
+    "name" : "XWByOZkfZqrVeXWGekQr",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 2660,
+    "arrival" : {
+      "time" : 41267
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 41267
+    },
+    "endOfDischarge" : {
+      "time" : 41334
+    },
+    "info" : "Name: XWByOZkfZqrVeXWGekQr; Arrival: 28:15:47; Waiting for discharge: 0:0:0; Begin of discharge: 28:15:47; Duration of discharge: 0:1:7"
+  }, {
+    "name" : "FBepTGIqAoqxgPcPXkKX",
+    "cargoType" : "POWDERY",
+    "cargoValue" : 42880,
+    "arrival" : {
+      "time" : 41680
+    },
+    "plannedWaiting" : {
+      "time" : 1980
+    },
+    "beginOfDischarge" : {
+      "time" : 41680
+    },
+    "endOfDischarge" : {
+      "time" : 42185
+    },
+    "info" : "Name: FBepTGIqAoqxgPcPXkKX; Arrival: 28:22:40; Waiting for discharge: 0:0:0; Begin of discharge: 28:22:40; Duration of discharge: 0:8:25"
+  }, {
+    "name" : "SLRKnLNjHysXlpxhWHZf",
+    "cargoType" : "CONTAINER",
+    "cargoValue" : 3571,
+    "arrival" : {
+      "time" : 41757
+    },
+    "plannedWaiting" : {
+      "time" : 2160
+    },
+    "beginOfDischarge" : {
+      "time" : 41757
+    },
+    "endOfDischarge" : {
+      "time" : 42261
+    },
+    "info" : "Name: SLRKnLNjHysXlpxhWHZf; Arrival: 28:23:57; Waiting for discharge: 0:0:0; Begin of discharge: 28:23:57; Duration of discharge: 0:8:24"
+  } ],
+  "numberOfDischargedShips" : 90,
+  "averageQueueLength" : 0.19759259259259257,
+  "averageWaitingTime" : {
+    "time" : 99
+  },
+  "maxDelay" : {
+    "time" : 1316
+  },
+  "averageDelay" : {
+    "time" : 10
+  },
+  "fine" : 4800,
+  "numberOfCranesPowdery" : 1,
+  "numberOfCranesLiquid" : 2,
+  "numberOfCranesContainer" : 8,
+  "totalExpenses" : 244800
+}
